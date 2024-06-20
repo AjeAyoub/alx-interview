@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Read stdin line by line & computes metrics
+Read stdin line by line and computes metrics
 Input format: <IP Address> - [<date>] "GET /projects/260 HTTP/1.1"
 <status code> <file size>, skip line if not this format
 After every 10minutes or keyboard interrupt (CTRL + C)
