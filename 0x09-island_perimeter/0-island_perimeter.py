@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-""" 
-0-island_perimeter 
+"""
+0-island_perimeter
 """
 
 
 def island_perimeter(grid):
-    """Returns perimeter of an island description in grid """
+    """Returns perimeter of an island description in grid"""
     perimeter = 0
     m = len(grid)
     n = len(grid[0])
