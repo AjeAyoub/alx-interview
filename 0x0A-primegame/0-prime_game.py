@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Prime Game"""
+""" Prime Game """
 
 
 def isprime(n):
